@@ -1,2 +1,0 @@
-# python-tutorial
-Week1
